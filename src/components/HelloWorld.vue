@@ -27,6 +27,19 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam venenatis ut ex sit amet consectetur. Duis id quam leo. Nam non purus semper, rutrum arcu et, venenatis dolor. Vivamus cursus elit vitae neque hendrerit, in volutpat elit consectetur. Proin efficitur quam eu lectus finibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id risus pharetra, blandit risus a, hendrerit quam. Proin vulputate nunc augue, et ornare risus tristique quis. Integer aliquam nunc suscipit ipsum sagittis bibendum. Fusce ante urna, malesuada sed ullamcorper sed, rhoncus eget ipsum. Pellentesque sit amet fermentum quam. Donec dapibus imperdiet dui. Sed fermentum, erat nec accumsan ultrices, justo arcu maximus elit, ut malesuada justo erat at odio. Donec in risus ac erat scelerisque auctor. Mauris cursus non nunc quis congue. Quisque volutpat tempor elit, a efficitur arcu iaculis a.
+        </div> 
+        <div class="col">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam venenatis ut ex sit amet consectetur. Duis id quam leo. Nam non purus semper, rutrum arcu et, venenatis dolor. Vivamus cursus elit vitae neque hendrerit, in volutpat elit consectetur. Proin efficitur quam eu lectus finibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id risus pharetra, blandit risus a, hendrerit quam. Proin vulputate nunc augue, et ornare risus tristique quis. Integer aliquam nunc suscipit ipsum sagittis bibendum. Fusce ante urna, malesuada sed ullamcorper sed, rhoncus eget ipsum. Pellentesque sit amet fermentum quam. Donec dapibus imperdiet dui. Sed fermentum, erat nec accumsan ultrices, justo arcu maximus elit, ut malesuada justo erat at odio. Donec in risus ac erat scelerisque auctor. Mauris cursus non nunc quis congue. Quisque volutpat tempor elit, a efficitur arcu iaculis a.
+        </div>
+        <div class="col">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam venenatis ut ex sit amet consectetur. Duis id quam leo. Nam non purus semper, rutrum arcu et, venenatis dolor. Vivamus cursus elit vitae neque hendrerit, in volutpat elit consectetur. Proin efficitur quam eu lectus finibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id risus pharetra, blandit risus a, hendrerit quam. Proin vulputate nunc augue, et ornare risus tristique quis. Integer aliquam nunc suscipit ipsum sagittis bibendum. Fusce ante urna, malesuada sed ullamcorper sed, rhoncus eget ipsum. Pellentesque sit amet fermentum quam. Donec dapibus imperdiet dui. Sed fermentum, erat nec accumsan ultrices, justo arcu maximus elit, ut malesuada justo erat at odio. Donec in risus ac erat scelerisque auctor. Mauris cursus non nunc quis congue. Quisque volutpat tempor elit, a efficitur arcu iaculis a.
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
