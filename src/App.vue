@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <CustomNavBar/>
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <custom-nav-bar/>
+    <hello-world msg="Welcome to Your Vue.js App"/>
+    <nav-bar-scrollable/>
     <b-container>
       <b-row>
         <b-col>Hallo</b-col>
@@ -17,6 +18,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 import { BContainer, BRow, BCol } from 'bootstrap-vue'
 import CustomNavBar from './components/CustomNavBar.vue'
+import NavBarScrollable from './components/NavBarScrollable.vue'
 
 export default {
   name: 'App',
@@ -25,7 +27,8 @@ export default {
     BContainer,
     BRow,
     BCol,
-    CustomNavBar
+    CustomNavBar,
+    NavBarScrollable
   }
 }
 </script>
