@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-navbar toggleable="lg" type="dark" variant="info">
+    <b-navbar type="dark" variant="info">
       <b-navbar-brand href="#">Proximator</b-navbar-brand>
       <div class="navbar-nav-scroll">
         <b-navbar-nav>
@@ -32,6 +32,10 @@ export default {
 </script>
 
 <style>
-
+.navbar-nav-scroll {
+    width: 30em;
+    overflow-x: auto;
+    white-space: nowrap;
+}
 </style>
 
