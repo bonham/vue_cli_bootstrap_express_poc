@@ -33,7 +33,7 @@ export default {
 </script>
 
 <style lang="scss">
-$body-bg: red;
+
 // Import custom SASS variable overrides, or alternatively
 // define your variable overrides here instead
 @import "assets/custom-vars.scss";
