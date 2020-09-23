@@ -3,9 +3,9 @@
     <custom-nav-bar />
     <b-container>
       <b-row>
-        <b-col>Hallo</b-col>
-        <b-col>Hallo</b-col>
-        <b-col>Hallo</b-col>
+        <b-col>Second</b-col>
+        <b-col>Page</b-col>
+        <b-col>Here</b-col>
       </b-row>
     </b-container>
   </div>
