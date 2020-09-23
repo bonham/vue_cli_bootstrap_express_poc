@@ -1,36 +1,12 @@
 <template>
   <div id="app">
-    <custom-nav-bar />
-    <hello-world msg="Welcome to Your Vue.js App" />
-    <nav-bar-scrollable />
-    <b-container>
-      <b-row>
-        <b-col>Hallo</b-col>
-        <b-col>Hallo</b-col>
-        <b-col>Hallo</b-col>
-      </b-row>
-    </b-container>
+    <div id="nav">
+      <router-link to="/">Home</router-link> |
+      <router-link to="/about">About</router-link>
+    </div>
+    <router-view/>
   </div>
 </template>
-
-<script>
-import HelloWorld from "./components/HelloWorld.vue";
-import { BContainer, BRow, BCol } from "bootstrap-vue";
-import CustomNavBar from "./components/CustomNavBar.vue";
-import NavBarScrollable from "./components/NavBarScrollable.vue";
-
-export default {
-  name: "App",
-  components: {
-    HelloWorld,
-    BContainer,
-    BRow,
-    BCol,
-    CustomNavBar,
-    NavBarScrollable,
-  },
-};
-</script>
 
 <style lang="scss">
 
