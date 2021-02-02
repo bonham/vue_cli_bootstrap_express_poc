@@ -1,5 +1,8 @@
 <template>
   <div id="app">
+    <!-- Example for router link outside of components -->
+
+    <!-- 
     <div id="nav">
       <router-link to="/">
         Home
@@ -8,6 +11,7 @@
         About
       </router-link>
     </div>
+     -->
     <router-view />
   </div>
 </template>
