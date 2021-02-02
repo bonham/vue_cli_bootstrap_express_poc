@@ -13,7 +13,10 @@ export default {
     BootContainer
   },
   props: {
-    msg: String
+    msg: {
+      type: String,
+      required: true
+    }
   }
 }
 </script>

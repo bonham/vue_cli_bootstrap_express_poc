@@ -8,7 +8,10 @@
 export default {
   name: 'BootContainer',
   props: {
-    btcontent: String
+    btcontent: {
+      type: String,
+      required: true
+    }
   }
 }
 </script>
