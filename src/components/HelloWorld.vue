@@ -1,6 +1,6 @@
 <template>
   <div>
-    <BootContainer btcontent="here should be rows and columns"/>
+    <BootContainer btcontent="here should be rows and columns" />
   </div>
 </template>
 
@@ -9,11 +9,11 @@ import BootContainer from './BootContainer.vue'
 
 export default {
   name: 'HelloWorld',
-  props: {
-    msg: String
-  },
   components: {
     BootContainer
+  },
+  props: {
+    msg: String
   }
 }
 </script>

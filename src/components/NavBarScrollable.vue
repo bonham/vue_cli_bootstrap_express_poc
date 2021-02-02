@@ -1,16 +1,35 @@
 <template>
   <div>
-    <b-navbar type="dark" variant="info">
-      <b-navbar-brand href="#">Proximator</b-navbar-brand>
+    <b-navbar
+      type="dark"
+      variant="info"
+    >
+      <b-navbar-brand href="#">
+        Proximator
+      </b-navbar-brand>
       <div class="navbar-nav-scroll">
         <b-navbar-nav>
-          <b-nav-item href="#">2020</b-nav-item>
-          <b-nav-item href="#">2019</b-nav-item>
-          <b-nav-item href="#">2018</b-nav-item>
-          <b-nav-item href="#">2017</b-nav-item>
-          <b-nav-item href="#">2016</b-nav-item>
-          <b-nav-item href="#">2015</b-nav-item>
-          <b-nav-item href="#">Regio</b-nav-item>
+          <b-nav-item href="#">
+            2020
+          </b-nav-item>
+          <b-nav-item href="#">
+            2019
+          </b-nav-item>
+          <b-nav-item href="#">
+            2018
+          </b-nav-item>
+          <b-nav-item href="#">
+            2017
+          </b-nav-item>
+          <b-nav-item href="#">
+            2016
+          </b-nav-item>
+          <b-nav-item href="#">
+            2015
+          </b-nav-item>
+          <b-nav-item href="#">
+            Regio
+          </b-nav-item>
         </b-navbar-nav>
       </div>
     </b-navbar>
